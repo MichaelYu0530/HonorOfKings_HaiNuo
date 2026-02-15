@@ -36,13 +36,6 @@ $RECYCLE.BIN/
 *.run.xml
 *.bcf
 
-# 生成的 PDF（是否忽略取决于你）
-# 如果想在 GitHub 展示 PDF，注释掉下面这行
-# *.pdf
-
-# 但如果不想把编译好的 PDF 传上去，就取消注释
-Thesis.pdf
-
 # 本地备份文件
 *.bak
 *.backup
