@@ -117,7 +117,7 @@ git clone https://github.com/MichaelYu0530/HonorOfKings_HaiNuo.git
 cd HonorOfKings_HaiNuo
 
 # 查看论文
-open 海诺科研记录.pdf  # Mac
+open Thesis.pdf  # Mac
 # 或者直接双击打开
 ```
 
